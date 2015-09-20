@@ -4,7 +4,7 @@ A 3D game written in pure C++ using DarkGDK and OpenGL
 
 ### Feature
 
-Real world physics using Calculus
+Real world physics using Calculus (kind of)
 
 Pure C++ ([Main.cpp](https://github.com/theniceboy/CW-Air-Surfing/blob/master/CW%20Air%20Surfing%201/Main.cpp))
 
