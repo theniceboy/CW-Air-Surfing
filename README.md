@@ -1,6 +1,6 @@
 ## CW-Air-Surfing
 
-A 3D game using DarkGDK (Which using OpenGL)
+A 3D game written in pure C++ using DarkGDK and OpenGL
 
 ### Feature
 
